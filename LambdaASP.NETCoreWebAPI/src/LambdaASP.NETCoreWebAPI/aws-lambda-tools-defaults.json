@@ -10,5 +10,6 @@
   "configuration": "Release",
   "s3-prefix": "LambdaASP.NETCoreWebAPI/",
   "template": "serverless.template",
-  "template-parameters": ""
+  "template-parameters": "",
+  "stack-name": "LambdaWebAPI"
 }
