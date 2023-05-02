@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fabio/Documents/Development/NET/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI/src/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI.csproj": {}
+    "D:\\Projects\\AWS\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI\\src\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI.csproj": {}
   },
   "projects": {
-    "/Users/fabio/Documents/Development/NET/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI/src/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI.csproj": {
+    "D:\\Projects\\AWS\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI\\src\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fabio/Documents/Development/NET/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI/src/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\AWS\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI\\src\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI.csproj",
         "projectName": "LambdaASP.NETCoreWebAPI",
-        "projectPath": "/Users/fabio/Documents/Development/NET/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI/src/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI.csproj",
-        "packagesPath": "/Users/fabio/.nuget/packages/",
-        "outputPath": "/Users/fabio/Documents/Development/NET/LambdaASP.NETCoreWebAPI/LambdaASP.NETCoreWebAPI/src/LambdaASP.NETCoreWebAPI/obj/",
+        "projectPath": "D:\\Projects\\AWS\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI\\src\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI.csproj",
+        "packagesPath": "C:\\Users\\fgama\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\AWS\\LambdaASP.NETCoreWebAPI\\LambdaASP.NETCoreWebAPI\\src\\LambdaASP.NETCoreWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fabio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\fgama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "http://172.31.11.92:8081/repository/nuget-hosted": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -61,16 +63,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.osx-arm64",
-              "version": "[6.0.12, 6.0.12]"
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.16, 6.0.16]"
             }
           ],
           "frameworkReferences": {
@@ -81,12 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "osx-arm64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
